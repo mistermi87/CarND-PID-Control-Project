@@ -4,7 +4,7 @@
 ---
 ## Writeup / README
 
-In this Project the objectiv was to apply a PID-Controller to a car, trying to follow a optimal line on a race course. Furthermore the hyperparameters (P, I, D coefficients) for the controller needed to be found.
+In this Project the objective was to apply a PID-Controller to a car, trying to follow a optimal line on a race course. Furthermore the hyperparameters (P, I, D coefficients) for the controller needed to be found.
 
 ### The Hyperparameters:
 
